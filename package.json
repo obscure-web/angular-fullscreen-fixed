@@ -1,19 +1,18 @@
 {
-  "name": "angular-fullscreen",
+  "name": "angular-fullscreen-fixed",
   "version": "1.0.1",
   "description": "An AngularJS service and a directive to quickly use the HTML5 fullscreen API",
   "license": "MIT",
   "author": {
-    "name": "Fabio Biondi",
-    "email": "info@fabiobiondi.com"
+    "name": "obscure-web",
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabiobiondi/angular-fullscreen.git"
+    "url": "https://github.com/obscure-web/angular-fullscreen-fixed.git"
   },
   "main": "./src/angular-fullscreen",
   "bugs": {
-    "url": "https://github.com/fabiobiondi/angular-fullscreen/issues"
+    "url": "https://github.com/obscure-web/angular-fullscreen-fixed/issues"
   },
-  "homepage": "https://github.com/fabiobiondi/angular-fullscreen"
+  "homepage": "https://github.com/obscure-web/angular-fullscreen-fixed"
 }
