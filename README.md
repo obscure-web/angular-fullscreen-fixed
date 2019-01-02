@@ -3,6 +3,12 @@ AngularJS HTML5 Fullscreen
 
 An AngularJS service and a directive to quickly use the HTML5 fullscreen API and set the fullscreen to the document or to a specific element.
 
+## Install
+
+```bash
+bower i --save angular-fullscreen-fixed
+```
+
 ## Usage
 Add AngularJS and the angular-fullscreen.js to your main file (index.html)
 	
