@@ -2,7 +2,7 @@
   "author": "obscure-web",
   "name": "angular-fullscreen-fixed",
   "description": "An AngularJS service and a directive to quickly use the HTML5 fullscreen API",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/obscure-web/angular-fullscreen-fixed",
   "repository": {
     "type": "git",
