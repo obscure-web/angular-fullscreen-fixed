@@ -4,7 +4,7 @@
   "description": "An AngularJS service and a directive to quickly use the HTML5 fullscreen API",
   "license": "MIT",
   "author": {
-    "name": "obscure-web",
+    "name": "obscure-web"
   },
   "repository": {
     "type": "git",
